@@ -2,3 +2,5 @@ just starting out i am still a beginner when it comes to code i may or may not h
 This is supposed to be a college assignment
 i hope this turns out to be good and functioning for others
 i don't have much to showcase in my resume 
+the whole process for entire project(html and css) took around a week because i am lazy and i had to look up for a lot of codes and functions individually
+an original project with just html file was created but i removed it and then added css and uplaoded both files together again
